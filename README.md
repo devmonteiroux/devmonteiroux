@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <a href="https://github.com/devmonteiroux">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devmonteiroux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmonteiroux&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,9 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<div align="center">
-  <a href="https://github.com/devmonteiroux">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmonteiroux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmonteiroux&layout=compact&langs_count=7&theme=dark"/>
-</div>
